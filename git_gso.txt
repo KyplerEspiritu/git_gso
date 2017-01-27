@@ -23,4 +23,5 @@ Skrá:
 Skráarsnið:
 	Í tölvum, skráarsnið segir hvernig gögn eru inn í skráarinnar(hún segir hvernig skrár, skráin er). Word skjal er t.d. með skráarsniðið “.doc”, HTML skjal er með “.html” og CSS skjal er með “.css” o.s.frv.
 
-
+Lokaorð:
+	Ég heiti Kypler Lloyd og í þessari ritgerð var ég að tala um hugtök. Hugtökin voru „Gögn“, „Gagnasafn“, „Gagnasafnskerfi“, „Færsla“, „Skrá“, „Skráarsnið“ og „Gildi“. En aðalega var ég að tala um gögn í gagansöfnum. 
