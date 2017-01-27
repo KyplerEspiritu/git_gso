@@ -17,4 +17,7 @@ Gagnasafnskerfi:
 Færsla:
 	Færsla er þegar þú færir einn hlut frá einum stað til annann. Tölvupóstur er dæmi um færslu. Því maður sendir það frá einu gagnasafnkerfi til annann.
 
+Skrá:
+	Gagnaskrá er tölvuskrá sem geymir gögn til að nota með einhverju tölvuforrit eða kerfi. Gagnaskrá má geyma á tveimum hætti. Fyrst er hægt að geyma það í textaskrár og svo annað tvívundarskrá/tvöfaldurskrár.
+
 
